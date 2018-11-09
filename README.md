@@ -6,5 +6,6 @@ In this repository you can find different documentations about Kubernetes :
 * [How to install Kubernetes Dashboard](dashboard/install.md)
 * [How to install the Helm Packager](helm/install.md)
 * [How to install a Cluster Healthcheck](healthcheck/cluster.md)
+* [How to setup an Ingress Controller](kubernetes/ingress-controller.md)
 
 Next `How to` coming soon...
